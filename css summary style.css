@@ -1,0 +1,52 @@
+body {
+    font-family: cursive;
+    width: 600px;
+    margin: 0 auto;
+    background-color: #75c1df;
+    padding: 0 20px 20px 20px;
+    border: 5px dotted black;
+}
+
+h1 {
+   text-align: center;
+   text-decoration: underline;
+   }
+
+h2 {
+    text-align: center;
+    color: rgb(240, 32, 160);
+}
+
+p {
+    text-align: justify;
+}
+
+html {
+    background-color: #d66f6f;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMbZXDKqY8-Irh7EKdX27neCMPkFOMhYQ6SA&usqp=CAU);
+  }
+
+img {
+    display: block;
+  margin: 0 auto;
+}
+
+#little text{
+    font-size: 50px;
+}
+
+.red {
+    color: crimson;
+    font-style: italic;
+}
+
+h3{
+    color: rgb(240, 32, 160);
+    text-align: center;
+}
+
+.bigwords{
+    text-decoration: underline;
+    font-style: italic;
+    color: crimson;
+}
